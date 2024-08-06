@@ -1,4 +1,7 @@
 # omikuji🔮
 
 ## How to use❔
-![omikuji2](https://github.com/shunsugar/omikuji/assets/120554165/c6ee6b4f-6537-429b-99af-ab299b0e9968)
+> [!NOTE]
+> When you run this program, the Omikuji window will appear. Press the Start button to divine today's fortune.
+
+![omikuji_init](https://github.com/user-attachments/assets/8b7b6720-762b-4cd6-9921-089614650538)
